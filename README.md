@@ -17,6 +17,8 @@ This repository is dedicated to collecting user feedback, suggestions, and ideas
 
 ## YouTube
 https://www.youtube.com/watch?v=ndshTDb3vsE
+https://github.com/user-attachments/assets/41b2c433-aeee-4954-b441-af93427fe8e1
+
 [![Watch the video](http://img.youtube.com/vi/ndshTDb3vsE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ndshTDb3vsE)
 
 ---
