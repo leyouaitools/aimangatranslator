@@ -23,8 +23,6 @@ This repository is dedicated to collecting user feedback, suggestions, and ideas
 
 
 
-[![Watch the video](http://img.youtube.com/vi/ndshTDb3vsE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ndshTDb3vsE)
-
 ---
 
 ## English
