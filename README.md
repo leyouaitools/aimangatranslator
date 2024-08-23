@@ -17,6 +17,10 @@ This repository is dedicated to collecting user feedback, suggestions, and ideas
 
 ## English
 
+### Access Links
+1. **Official Website**: [https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **Google Chrome Extension**: [https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
+
 ### How to Contribute
 
 1. **Submit Feedback**: If you have feedback, click on the "Issues" tab above and create a new issue. Please provide as much detail as possible to help us understand your feedback.
@@ -40,6 +44,11 @@ Thank you for being a part of our community and helping us improve AI Manga Tran
 ---
 
 ## 中文（简体）
+
+### 访问地址
+1. **官网**：[https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **谷歌插件**：[https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
+
 
 ### 如何参与
 
@@ -65,6 +74,10 @@ Thank you for being a part of our community and helping us improve AI Manga Tran
 
 ## 中文（繁體）
 
+### 訪問地址
+1. **官網**：[https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **谷歌插件**：[https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
+
 ### 如何參與
 
 1. **提交反饋**：如果您有任何反饋，請點擊上方的“Issues”標籤，並創建一個新的問題。請儘量詳細描述您的反饋，以便我們更好地理解。
@@ -88,6 +101,10 @@ Thank you for being a part of our community and helping us improve AI Manga Tran
 ---
 
 ## Français
+
+### Liens d'accès
+1. **Site officiel** : [https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **Extension Google Chrome** : [https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
 
 ### Comment Contribuer
 
@@ -113,6 +130,10 @@ Merci de faire partie de notre communauté et de nous aider à améliorer AI Man
 
 ## Deutsch
 
+### Zugriffslinks
+1. **Offizielle Webseite**: [https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **Google Chrome Erweiterung**: [https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
+
 ### So tragen Sie bei
 
 1. **Feedback einreichen**: Wenn Sie Feedback haben, klicken Sie auf die Registerkarte "Issues" oben und erstellen Sie ein neues Issue. Bitte geben Sie so viele Details wie möglich an, um uns zu helfen, Ihr Feedback zu verstehen.
@@ -137,6 +158,10 @@ Danke, dass Sie Teil unserer Gemeinschaft sind und uns helfen, AI Manga Translat
 
 ## Русский
 
+### Ссылки для доступа
+1. **Официальный сайт**: [https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **Расширение для Google Chrome**: [https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
+
 ### Как внести вклад
 
 1. **Отправка отзывов**: Если у вас есть отзывы, нажмите на вкладку "Issues" выше и создайте новый запрос. Пожалуйста, предоставьте как можно больше деталей, чтобы помочь нам понять ваш отзыв.
@@ -160,6 +185,10 @@ Danke, dass Sie Teil unserer Gemeinschaft sind und uns helfen, AI Manga Translat
 ---
 
 ## العربية
+
+### روابط الوصول
+1. **الموقع الرسمي**: [https://aimangatranslator.com/](https://aimangatranslator.com/)
+2. **إضافة جوجل كروم**: [https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd](https://chromewebstore.google.com/detail/ai-manga-translator/jgikdjkjpmlfcmbkpeemlgelkipfbfhd)
 
 ### كيفية المساهمة
 
