@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "AI Manga Translator",
+  "version": "0.0.3",
+  "description": "AI Manga Translator：Translate Raw Comics & Manga With One Click",
+  "icons": {
+    "16": "icons/icon_16.png",
+    "32": "icons/icon_32.png",
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_ui": {
+    "page": "/options.html",
+    "open_in_tab": true
+  },
+  "permissions": [
+    "storage",
+    "background"
+  ],
+  "host_permissions": [
+    "*://*.aimangatranslator.com/*",
+    "https://*/*"
+  ],
+  "action":{
+    "default_icon":"icons/icon_48.png",
+    "default_title":"AI Manga Translator",
+    "default_popup":"/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://aimangatranslator.com/*"],
+      "js": ["content/aimangatranslator.js"]
+    },
+    {
+      "matches": ["https://mangadex.org/*"],
+      "js": ["floatingBall.js","chunk-vendors.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["static/js/*.js","vendors.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
